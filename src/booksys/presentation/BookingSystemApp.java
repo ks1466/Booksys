@@ -11,7 +11,7 @@ package booksys.presentation ;
 import java.awt.* ;
 import java.awt.event.* ;
 
-public class BookingSystemApp extends Frame
+public class BookingSystemApp extends Frame//√π Ω√¿€
 {
   private StaffUI ui ;
 
